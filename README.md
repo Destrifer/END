@@ -1,4 +1,4 @@
-[![Yamdb-app workflow](https://github.com/Destrifer/END/blob/main/.github/workflows/yamdb_workflow.yml/badge.svg?branch=master)](https://github.com/Destrifer/END/blob/main/.github/workflows/yamdb_workflow.yml)
+[![Yamdb-app workflow](https://github.com/Destrifer/END/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/Destrifer/END/actions/workflows/yamdb_workflow.yml)
 
 # Учебный проект YaMDb в рамках учебы Yandex.Practicum.
 
