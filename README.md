@@ -75,3 +75,9 @@ python manage.py loaddata fixtures/fixtures.json
 ```
 exit
 ```
+
+сервисы будут доступны по адресам:
+
+http://158.160.17.205/api/redoc/
+http://158.160.17.205/api/v1/
+http://158.160.17.205/admin/
