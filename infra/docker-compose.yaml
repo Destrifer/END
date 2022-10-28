@@ -30,7 +30,7 @@ services:
     container_name: drf_backend
     image: centner/yamdb_final:latest
     volumes:
-      - static_volume:/app/static
+      - static_value:/app/static
     command: bash -c "cd /app && gunicorn --bind 0.0.0.0:8000 --workers 3 api_yamdb.wsgi:application"
     depends_on:
       - postgresql_db
