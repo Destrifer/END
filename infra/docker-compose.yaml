@@ -47,7 +47,7 @@ services:
       - pgadmin
     volumes:
       - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
-      - static_volume:/var/html/static/
+      - static_volume:/app/static
     ports:
       - '80:80'
 
